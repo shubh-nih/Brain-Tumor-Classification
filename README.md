@@ -41,6 +41,9 @@ Raw MRI images go through a custom OpenCV pipeline before training:
 
 Preprocessed images were saved locally and later uploaded to Kaggle as a dataset for model training.
 
+<img width="470" height="406" alt="Screenshot 2026-04-04 111649" src="https://github.com/user-attachments/assets/84332866-e381-47a9-9fcc-556c52e6396a" />
+
+
 ---
 
 ## 🤖 Model Selection (`2_model_selection.ipynb`)
